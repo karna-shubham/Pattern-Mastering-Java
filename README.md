@@ -69,9 +69,10 @@ This repository will chronicle my journey from pattern programming novice to mas
 | 16 | Alphabet Pattern 01 - Sequential letters | `A`<br>`A B`<br>`A B C` | [Assign16.java](solutions/Assign16.java) |
 | 17 | Alphabet Pattern 02 - Row letter repeated | `A`<br>`B B`<br>`C C C` | [Assign17.java](solutions/Assign17.java) |
 | 18 | Alphabet Pattern 03 - Continuous alphabet | `A`<br>`B C`<br>`D E F` | [Assign18.java](solutions/Assign18.java) |
-<!-- | 19 | Hollow Right Triangle | `*`<br>`**`<br>`* *`<br>`****` | [Assign19.java](solutions/Assign19.java) |
+| 19 | Hollow Right Triangle | `*`<br>`**`<br>`* *`<br>`****` | [Assign19.java](solutions/Assign19.java) |
 | 20 | Hollow Pyramid | `   *`<br>`  * *`<br>` *   *`<br>`*******` | [Assign20.java](solutions/Assign20.java) |
 | 21 | Butterfly Pattern | `*      *`<br>`**    **`<br>`***  ***`<br>`********`<br>`***  ***`<br>`**    **`<br>`*      *` | [Assign21.java](solutions/Assign21.java) |
+<!--
 | 22 | Solid Rhombus Pattern | `    *****`<br>`   *****`<br>`  *****`<br>` *****`<br>`*****` | [Assign22.java](solutions/Assign22.java) |
 | 23 | Hollow Rhombus Pattern | `    *****`<br>`   *   *`<br>`  *   *`<br>` *   *`<br>`*****` | [Assign23.java](solutions/Assign23.java) |
 | 24 | Parallelogram Pattern | `        *****`<br>`      *****`<br>`    *****`<br>`  *****`<br>`*****` | [Assign24.java](solutions/Assign24.java) |
