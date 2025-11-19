@@ -108,8 +108,6 @@ This repository will chronicle my journey from pattern programming novice to mas
 | 52 | Number Sandglass | `1 2 3 4 5 6 7`<br>` 8 9 10 11 12`<br>`  13 14 15`<br>`   16`<br>`  17 18 19`<br>` 20 21 22 23 24`<br>`25 26 27 28 29 30 31` | [Assign52.java](solutions/Assign52.java) |
 | 53 | Heart Pattern | `  **   **`<br>` **** ****`<br>`***********`<br>` *********`<br>`  *******`<br>`   *****`<br>`    ***`<br>`     *` | [Assign53.java](solutions/Assign53.java) | -->
 
-</details>
-
 ---
 
 ## 💡 Key Concepts Mastered
