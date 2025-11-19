@@ -72,13 +72,14 @@ This repository will chronicle my journey from pattern programming novice to mas
 | 19 | Hollow Right Triangle | `*`<br>`**`<br>`* *`<br>`****` | [Assign19.java](solutions/Assign19.java) |
 | 20 | Hollow Pyramid | `   *`<br>`  * *`<br>` *   *`<br>`*******` | [Assign20.java](solutions/Assign20.java) |
 | 21 | Butterfly Pattern | `*      *`<br>`**    **`<br>`***  ***`<br>`********`<br>`***  ***`<br>`**    **`<br>`*      *` | [Assign21.java](solutions/Assign21.java) |
-<!--
+
 | 22 | Solid Rhombus Pattern | `    *****`<br>`   *****`<br>`  *****`<br>` *****`<br>`*****` | [Assign22.java](solutions/Assign22.java) |
 | 23 | Hollow Rhombus Pattern | `    *****`<br>`   *   *`<br>`  *   *`<br>` *   *`<br>`*****` | [Assign23.java](solutions/Assign23.java) |
 | 24 | Parallelogram Pattern | `        *****`<br>`      *****`<br>`    *****`<br>`  *****`<br>`*****` | [Assign24.java](solutions/Assign24.java) |
 | 25 | Number Pyramid 01 - Sequential | `   1`<br>`  1 2`<br>` 1 2 3`<br>`1 2 3 4` | [Assign25.java](solutions/Assign25.java) |
 | 26 | Number Pyramid 02 - Row repeated | `   1`<br>`  2 2`<br>` 3 3 3`<br>`4 4 4 4` | [Assign26.java](solutions/Assign26.java) |
 | 27 | Palindrome Number Pyramid | `    1`<br>`   121`<br>`  12321`<br>` 1234321` | [Assign27.java](solutions/Assign27.java) |
+<!--
 | 28 | Hourglass Pattern | `*******`<br>` *****`<br>`  ***`<br>`   *`<br>`  ***`<br>` *****`<br>`*******` | [Assign28.java](solutions/Assign28.java) |
 | 29 | Cross/Plus Pattern | `  *`<br>`  *`<br>`*****`<br>`  *`<br>`  *` | [Assign29.java](solutions/Assign29.java) |
 | 30 | X Pattern - Diagonal cross | `*   *`<br>` * * `<br>`  *  `<br>` * * `<br>`*   *` | [Assign30.java](solutions/Assign30.java) |
