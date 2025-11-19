@@ -79,6 +79,7 @@ This repository will chronicle my journey from pattern programming novice to mas
 | 25 | Number Pyramid 01 - Sequential | `   1`<br>`  1 2`<br>` 1 2 3`<br>`1 2 3 4` | [Assign25.java](solutions/Assign25.java) |
 | 26 | Number Pyramid 02 - Row repeated | `   1`<br>`  2 2`<br>` 3 3 3`<br>`4 4 4 4` | [Assign26.java](solutions/Assign26.java) |
 | 27 | Palindrome Number Pyramid | `    1`<br>`   121`<br>`  12321`<br>` 1234321` | [Assign27.java](solutions/Assign27.java) |
+</details>
 <!--
 | 28 | Hourglass Pattern | `*******`<br>` *****`<br>`  ***`<br>`   *`<br>`  ***`<br>` *****`<br>`*******` | [Assign28.java](solutions/Assign28.java) |
 | 29 | Cross/Plus Pattern | `  *`<br>`  *`<br>`*****`<br>`  *`<br>`  *` | [Assign29.java](solutions/Assign29.java) |
