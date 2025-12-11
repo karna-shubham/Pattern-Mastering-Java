@@ -72,43 +72,20 @@ This repository will chronicle my journey from pattern programming novice to mas
 | 19 | Hollow Right Triangle | `*`<br>`**`<br>`* *`<br>`****` | [Assign19.java](solutions/Assign19.java) |
 | 20 | Hollow Pyramid | `   *`<br>`  * *`<br>` *   *`<br>`*******` | [Assign20.java](solutions/Assign20.java) |
 | 21 | Butterfly Pattern | `*      *`<br>`**    **`<br>`***  ***`<br>`********`<br>`***  ***`<br>`**    **`<br>`*      *` | [Assign21.java](solutions/Assign21.java) |
-
 | 22 | Solid Rhombus Pattern | `    *****`<br>`   *****`<br>`  *****`<br>` *****`<br>`*****` | [Assign22.java](solutions/Assign22.java) |
 | 23 | Hollow Rhombus Pattern | `    *****`<br>`   *   *`<br>`  *   *`<br>` *   *`<br>`*****` | [Assign23.java](solutions/Assign23.java) |
 | 24 | Parallelogram Pattern | `        *****`<br>`      *****`<br>`    *****`<br>`  *****`<br>`*****` | [Assign24.java](solutions/Assign24.java) |
 | 25 | Number Pyramid 01 - Sequential | `   1`<br>`  1 2`<br>` 1 2 3`<br>`1 2 3 4` | [Assign25.java](solutions/Assign25.java) |
 | 26 | Number Pyramid 02 - Row repeated | `   1`<br>`  2 2`<br>` 3 3 3`<br>`4 4 4 4` | [Assign26.java](solutions/Assign26.java) |
 | 27 | Palindrome Number Pyramid | `    1`<br>`   121`<br>`  12321`<br>` 1234321` | [Assign27.java](solutions/Assign27.java) |
-</details>
-<!--
 | 28 | Hourglass Pattern | `*******`<br>` *****`<br>`  ***`<br>`   *`<br>`  ***`<br>` *****`<br>`*******` | [Assign28.java](solutions/Assign28.java) |
 | 29 | Cross/Plus Pattern | `  *`<br>`  *`<br>`*****`<br>`  *`<br>`  *` | [Assign29.java](solutions/Assign29.java) |
 | 30 | X Pattern - Diagonal cross | `*   *`<br>` * * `<br>`  *  `<br>` * * `<br>`*   *` | [Assign30.java](solutions/Assign30.java) |
 | 31 | Square with Diagonals | `*****`<br>`** **`<br>`* * *`<br>`** **`<br>`*****` | [Assign31.java](solutions/Assign31.java) |
 | 32 | Hollow Diamond with Numbers | `   1`<br>`  2 2`<br>` 3   3`<br>`4     4`<br>` 3   3`<br>`  2 2`<br>`   1` | [Assign32.java](solutions/Assign32.java) |
-| 33 | Pascal's Triangle | `    1`<br>`   1 1`<br>`  1 2 1`<br>` 1 3 3 1`<br>`1 4 6 4 1` | [Assign33.java](solutions/Assign33.java) |
-| 34 | Zigzag/Wave Pattern | `*   *   *`<br>` * * * *`<br>`  *   *  ` | [Assign34.java](solutions/Assign34.java) |
-| 35 | Spiral Matrix - Inward | `1  2  3  4`<br>`12 13 14 5`<br>`11 16 15 6`<br>`10 9  8  7` | [Assign35.java](solutions/Assign35.java) |
-| 36 | Checkerboard Pattern | `* * * *`<br>` * * * *`<br>`* * * *` | [Assign36.java](solutions/Assign36.java) |
-| 37 | Reverse Spiral - Outward | `25 24 23 22 21`<br>`10  9  8  7 20`<br>`11  2  1  6 19`<br>`12  3  4  5 18`<br>`13 14 15 16 17` | [Assign37.java](solutions/Assign37.java) |
-| 38 | Alphabet Palindrome Pyramid | `    A`<br>`   ABA`<br>`  ABCBA`<br>` ABCDCBA` | [Assign38.java](solutions/Assign38.java) |
-| 39 | Crown/Castle Pattern | `*   *   *`<br>`**  **  **`<br>`*** *** ***`<br>`***********` | [Assign39.java](solutions/Assign39.java) |
-| 40 | Half Diamond Pattern | `*`<br>`**`<br>`***`<br>`****`<br>`***`<br>`**`<br>`*` | [Assign40.java](solutions/Assign40.java) |
-| 41 | Number Diamond | `   1`<br>`  1 2`<br>` 1 2 3`<br>`1 2 3 4`<br>` 1 2 3`<br>`  1 2`<br>`   1` | [Assign41.java](solutions/Assign41.java) |
-| 42 | Number Hourglass | `1 2 3 4 5 6 7`<br>` 1 2 3 4 5`<br>`  1 2 3`<br>`   1`<br>`  1 2 3`<br>` 1 2 3 4 5`<br>`1 2 3 4 5 6 7` | [Assign42.java](solutions/Assign42.java) |
-| 43 | Rectangle with X | `*******`<br>`** * **`<br>`* * * *`<br>`** * **`<br>`*******` | [Assign43.java](solutions/Assign43.java) |
-| 44 | Sine Wave Pattern | `    *       *`<br>`  *   *   *   *`<br>`*       *      ` | [Assign44.java](solutions/Assign44.java) |
-| 45 | Hollow Hourglass | `*********`<br>` *     *`<br>`  *   *`<br>`   * *`<br>`    *`<br>`   * *`<br>`  *   *`<br>` *     *`<br>`*********` | [Assign45.java](solutions/Assign45.java) |
-| 46 | Right-aligned Floyd's Triangle | `    1`<br>`   2 3`<br>`  4 5 6`<br>` 7 8 9 10` | [Assign46.java](solutions/Assign46.java) |
-| 47 | Diamond with Stars and Numbers | `   1`<br>`  2*2`<br>` 3***3`<br>`4*****4`<br>` 3***3`<br>`  2*2`<br>`   1` | [Assign47.java](solutions/Assign47.java) |
-| 48 | Alphabet Hourglass | `ABCDEFG`<br>` ABCDE`<br>`  ABC`<br>`   A`<br>`  ABC`<br>` ABCDE`<br>`ABCDEFG` | [Assign48.java](solutions/Assign48.java) |
-| 49 | Binary Hourglass | `1010101`<br>` 10101`<br>`  101`<br>`   1`<br>`  101`<br>` 10101`<br>`1010101` | [Assign49.java](solutions/Assign49.java) |
-| 50 | Row Number Pyramid | `    1`<br>`   2 2`<br>`  3 3 3`<br>` 4 4 4 4`<br>`5 5 5 5 5` | [Assign50.java](solutions/Assign50.java) |
-| 51 | Inverted Hollow Pyramid | `*********`<br>` *     *`<br>`  *   *`<br>`   * *`<br>`    *` | [Assign51.java](solutions/Assign51.java) |
-| 52 | Number Sandglass | `1 2 3 4 5 6 7`<br>` 8 9 10 11 12`<br>`  13 14 15`<br>`   16`<br>`  17 18 19`<br>` 20 21 22 23 24`<br>`25 26 27 28 29 30 31` | [Assign52.java](solutions/Assign52.java) |
-| 53 | Heart Pattern | `  **   **`<br>` **** ****`<br>`***********`<br>` *********`<br>`  *******`<br>`   *****`<br>`    ***`<br>`     *` | [Assign53.java](solutions/Assign53.java) | -->
 
 </details>
+
 
 ---
 
