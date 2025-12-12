@@ -83,6 +83,11 @@ This repository will chronicle my journey from pattern programming novice to mas
 | 30 | X Pattern - Diagonal cross | `*   *`<br>` * * `<br>`  *  `<br>` * * `<br>`*   *` | [Assign30.java](solutions/Assign30.java) |
 | 31 | Square with Diagonals | `*****`<br>`** **`<br>`* * *`<br>`** **`<br>`*****` | [Assign31.java](solutions/Assign31.java) |
 | 32 | Hollow Diamond with Numbers | `   1`<br>`  2 2`<br>` 3   3`<br>`4     4`<br>` 3   3`<br>`  2 2`<br>`   1` | [Assign32.java](solutions/Assign32.java) |
+| 33 | Pascal's Triangle | `    1`<br>`   1 1`<br>`  1 2 1`<br>` 1 3 3 1`<br>`1 4 6 4 1` | [Assign33.java](solutions/Assign33.java) |
+| 34 | Zigzag/Wave Pattern | `*   *   *`<br>` * * * *`<br>`  *   *  ` | [Assign34.java](solutions/Assign34.java) |
+| 35 | Spiral Matrix - Inward | `1  2  3  4`<br>`12 13 14 5`<br>`11 16 15 6`<br>`10 9  8  7` | [Assign35.java](solutions/Assign35.java) |
+| 36 | Checkerboard Pattern | `* * * *`<br>` * * * *`<br>`* * * *` | [Assign36.java](solutions/Assign36.java) |
+| 37 | Reverse Spiral - Outward | `25 24 23 22 21`<br>`10  9  8  7 20`<br>`11  2  1  6 19`<br>`12  3  4  5 18`<br>`13 14 15 16 17` | [Assign37.java](solutions/Assign37.java) |
 
 </details>
 
